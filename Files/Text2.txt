@@ -1,0 +1,11 @@
+C:\Users\Raghav\Documents\SoapUIProjects\COREAutomation\CORE-BVT\CurrencyConvertor-soapui-project.xml
+
+<web:ToCurrency>?</web:ToCurrency>
+
+
+1) Fresh install of Eclipse Juno 4.2 from Eclipse website.
+2) Install only Google Plugin for Eclipse 3.8/4.2(Juno) from "dl.google.com/eclipse/plugin/4.2"
+3) Install WindowBuilder Pro from "download.eclipse.org/windowbuilder/WB/release/R201209281200/4.2/"
+-- Swing Designer
+-- SWT Designer
+-- WindowBuilder Engine
